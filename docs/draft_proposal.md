@@ -15,10 +15,14 @@ So I picked the dataset from Kaggle. This dataset is about organizing a sizable 
 
 I am that woman who wants to find my dream house/home with a reasonable price tag. I have locations of interest ready, and I want to know if the price of the house matches the value. With this project, I know it will be easier to understand which features influence the price of the house, when they all match, I can be sure am getting a fair price
 
+This dataset is made up of 18 columns, with dtypes: float64(4), int64(9), object(5)
+memory usage: 647.0+ KB
 
 For this project my notebook will be solving the problem of predicting house prices. 
 
-** Some logical steps i might use with ML;
+I plan to use clustering and regression models
+
+** Some logical steps i will use with ML;
 
 -loading data and packages
 
@@ -29,3 +33,5 @@ For this project my notebook will be solving the problem of predicting house pri
 -data cleaning(impute missing data)
 
 -then I will try a few models the predict
+
+After predicting the price do the house prices with machine learning, I will deploy this on AWS
