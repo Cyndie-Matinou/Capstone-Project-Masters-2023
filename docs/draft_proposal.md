@@ -1,5 +1,5 @@
 
-** House Prices Predictions**
+**House Prices Predictions**
 
 I choose to work on this project because I have been very much interested in buying a house by the end of the year 2023.
 
