@@ -24,16 +24,23 @@ I plan to use regression model to predict the price of a house based on the othe
 **Some logical steps i will use with ML;**
 
 -loading data and packages
+
 -analysing the test variable which is the sale price
+
 -maybe multivariable analysis
+
 -data cleaning(impute missing data)
+
 -then I will develop a web app to help me predict price of the house then deploy the web app on AWS.After predicting the house prices with machine learning, I will deploy this on AWS
 
 **Deployment**
 
 -I will Create an Infrastructure, using AWS CDK to create an Amazon EC2 instance.
+
 -Automate configuration by using my EC2 user data to install all packages, 
+
 - configure them, and
+
 - deploy the application.
 
 
