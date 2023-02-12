@@ -39,9 +39,9 @@ I plan to use regression model to predict the price of a house based on the othe
 
 -Automate configuration by using my EC2 user data to install all packages, 
 
-- configure them, and
+-configure them, and
 
-- deploy the application.
+-deploy the application.
 
 
 
