@@ -14,7 +14,8 @@ So I picked the dataset from Kaggle. This dataset is about organizing a sizable 
 **Data Overview**
 This dataset is made up of 18 columns, with dtypes: float64(4), int64(9), object(5) memory usage: 647.0+ KB.
 
-The columns are price, bedrooms, bathrooms,	sqft_living, sqft_lot,	floors,	waterfront,	view,	condition,	sqft_above,	sqft_basement,	yr_built,	yr_renovated,	street,	city,	statezip, and country. This Data is for America as a whole
+The columns are price, bedrooms, bathrooms,	sqft_living, sqft_lot,	floors,	waterfront,	view,	condition,	sqft_above,	sqft_basement,	yr_built,	yr_renovated,	street,	city,	statezip, and country. 
+This Data is for America as a whole, from 2005 to 2022
 
 **Logical Steps and plans**
 
