@@ -34,4 +34,4 @@ I plan to use clustering and regression models
 
 -then I will try a few models the predict
 
-After predicting the price do the house prices with machine learning, I will deploy this on AWS
+After predicting the price do the house prices with machine learning, I will use streamlit to create a machine learning app ,in which I will put my regression models and then it will help me predict the price of the houses based on the various features.
