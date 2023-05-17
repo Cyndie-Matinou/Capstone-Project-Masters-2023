@@ -47,6 +47,14 @@ The columns are price, bedrooms, bathrooms, sqft_living, sqft_lot, floors, water
 Below is a snippet of the prediction
 ![Screen Shot 2023-05-16 at 9 15 05 PM](https://github.com/Cyndie-Matinou/Capstone-Project-Masters-2023/assets/105822046/c5ca5cec-556d-45b0-9b62-ad7c6305f4a1)
 
+## ML models I tried and their scores
+Type of model	Accuracy or score
+Linear regression	0.82
+Gradient boosting	0.57
+Ridge regression 1	0.55
+Ridge regression 2(tweaked the parameters)	0.58
+
+![image](https://github.com/Cyndie-Matinou/Capstone-Project-Masters-2023/assets/105822046/dd3c3a78-854b-47cb-b80d-edf0bf1fa5cb)
 
 
 ## Deployment
