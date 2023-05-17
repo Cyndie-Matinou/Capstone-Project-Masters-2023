@@ -36,6 +36,9 @@ The columns are price, bedrooms, bathrooms, sqft_living, sqft_lot, floors, water
  Dependent variable: “Price”
       Independent variables: Bedrooms, bathrooms, condition, and Zipcode
 •	Then fitted and saved the model. I want to precise that Usually, I’d need to wrangle the data, train, and validate the results, but to make things simple, for the project I only wanted to focus on fitting and deploying the model only.
+![Screen Shot 2023-05-16 at 9 15 05 PM](https://github.com/Cyndie-Matinou/Capstone-Project-Masters-2023/assets/105822046/c5ca5cec-556d-45b0-9b62-ad7c6305f4a1)
+
+
 
 ## Deployment
 •	Now that all of that was looking good
