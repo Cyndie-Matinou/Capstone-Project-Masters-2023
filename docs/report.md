@@ -14,6 +14,7 @@ is made up of 18 columns, with dtypes: float64(4), int64(9), object(5) memory us
 647.0+ KB.
 The columns are price, bedrooms, bathrooms, sqft_living, sqft_lot, floors, waterfront, view, condition, sqft_above, sqft_basement, yr_built, yr_renovated, street, city, statezip, and country. This Data is for America as a whole, from 2005 to 2022
 
+
 ## Preprocessing
 •	Got rid of nulls
 •	Got rid of duplicates 
@@ -22,6 +23,12 @@ The columns are price, bedrooms, bathrooms, sqft_living, sqft_lot, floors, water
 •	Then executed the describe function and as you can see, I could infer a few things. 
 •	Looking at the bedroom columns , the dataset has a house where the house has 33 bedrooms , seems to be a massive house and would be interesting to know more about it as I progress.
 •	I also noticed Maximum square feet is 13,450 where as the minimum is 290. This tells me that the data is distributed
+
+
+## EDA Discovery
+
+![Screen Shot 2023-05-16 at 9 15 49 PM](https://github.com/Cyndie-Matinou/Capstone-Project-Masters-2023/assets/105822046/324464a6-5f48-464b-9460-6d6dca0f3215)
+
 
 ## How common factors are affecting the price of the houses ?
 •	for the condition feature for example, From the plot we notice that the higher the price the better the condition of the house.,I mean who will wanna buy a house at the high price if it is not in a good condition
@@ -36,6 +43,8 @@ The columns are price, bedrooms, bathrooms, sqft_living, sqft_lot, floors, water
  Dependent variable: “Price”
       Independent variables: Bedrooms, bathrooms, condition, and Zipcode
 •	Then fitted and saved the model. I want to precise that Usually, I’d need to wrangle the data, train, and validate the results, but to make things simple, for the project I only wanted to focus on fitting and deploying the model only.
+
+Below is a snippet of the prediction
 ![Screen Shot 2023-05-16 at 9 15 05 PM](https://github.com/Cyndie-Matinou/Capstone-Project-Masters-2023/assets/105822046/c5ca5cec-556d-45b0-9b62-ad7c6305f4a1)
 
 
