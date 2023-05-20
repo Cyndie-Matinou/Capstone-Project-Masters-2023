@@ -1,4 +1,5 @@
 Link to the powerpoint: https://1drv.ms/p/s!AlANcVqkc7WmgYE0L-shgIKxQNwTPA
+Youtube Link: https://youtu.be/hDLSknDSadY
 
 ## Abstract
 •	The real estate industry is one of the most competitive in terms of pricing and is always changing. 
